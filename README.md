@@ -1,4 +1,7 @@
 [Kanban](https://github.com/users/SzymkowskiDev/projects/12/views/1)
+
+[Terraform](https://github.com/SzymkowskiDev/media-recommenders-iac/tree/master)
+
 # Media Recommenders Suite 
 MRS for short is a set of 4 recommendation engines that are deployed to the cloud and serve recommendations on 4 types of media:
 - movies
@@ -48,14 +51,12 @@ Project members present their work to the team (2nd batch of presentations).
 ![architecture_diagram](https://github.com/SzymkowskiDev/media-recommenders/blob/master/architecture.PNG?raw=true)
 
 ## 🔗 Related
-* Description 1 [Name 1](http://markdown.github.io)
-* Description 2 [Name 2](http://markdown.github.io)
-* Description 3 [Name 3](http://markdown.github.io)
+* Terraform code: [media-recommenders-iac](https://github.com/SzymkowskiDev/media-recommenders-iac/tree/master)
 
 ## 🎓 Learning Materials
-* Description 1 [Name 1](http://markdown.github.io)
-* Description 2 [Name 2](http://markdown.github.io)
-* Description 3 [Name 3](http://markdown.github.io)
+* [AWS Intro]([http://markdown.github.io](https://youtube.com/playlist?list=PL5xjxXEpFRVHH17erqQ2yrYJyx9EELU7D&si=514uMMb7jLKDLId-))
+* [AWS Services]([http://markdown.github.io](https://youtube.com/playlist?list=PL5xjxXEpFRVFc5iT2R0fvxEWQxjDGr2P-&si=dC4Ep1X0vxoX8FIU))
+* [DevOps - Infra as Code]([http://markdown.github.io](https://youtube.com/playlist?list=PL5xjxXEpFRVGRnb3oiqPbu7YBnm_6ur07&si=HJuI0XMwMJ59gIGn))
 
 ## 📄 License
 [MIT License](https://choosealicense.com/licenses/mit/) ©️ 2019-2020 [Kamil Szymkowski](https://github.com/SzymkowskiDev "Get in touch!")
